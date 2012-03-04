@@ -11,10 +11,28 @@ body {
 	background-color: white;
 	font-family: helvetica;
 	color: black;
-	padding: 20px;
+	padding: 30px;
 	}
 
-p {
-	font-style: italic;
+a:link, visited {
+	text-decoration: underline; 
+	background-color: white;
+	margin: 5px;
+	color: #F92672;
+}
+
+a:hover, active {
+	text-decoration: none; 
+	background-color: #F92672;
+	color: white;
+}
+
+a {
+	text-transform:lowercase;
+}
+
+#elevator {
+		font-style: italic;
 	font-size: 40px;
+	max-width: 25em;
 }
