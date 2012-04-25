@@ -18,10 +18,9 @@ body {
 	max-width: 60%;
 	}
 
-a {	
+a img {
 	border: none;
-    text-decoration: none;
-	}
+}
 
 li {
 	list-style: none;
