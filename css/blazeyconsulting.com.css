@@ -5,6 +5,7 @@ h1 {
 	font-size: 1.9em;
 	letter-spacing: 0.8px;
 	line-height: 1.4;
+	font-size: 45px;
 	}
 
 body {
@@ -18,18 +19,25 @@ body {
 	max-width: 60%;
 	}
 
+a {
+	text-decoration: none; 	
+	}
+
 a img {
 	border: none;
 	}
 
-a:link, visited {
+a.footer_links:hover {
+	background-color: white;
+}
+
+a:link, a:visited {
 	background-color: white;
 	margin: 5px;
 	color: #F92672;
 	}
 
-a:hover, active {
-	text-decoration: none; 
+a:hover, a:active {
 	background-color: #F92672;
 	color: white;
 	}
