@@ -20,7 +20,19 @@ body {
 
 a img {
 	border: none;
-}
+	}
+
+a:link, visited {
+	background-color: white;
+	margin: 5px;
+	color: #F92672;
+	}
+
+a:hover, active {
+	text-decoration: none; 
+	background-color: #F92672;
+	color: white;
+	}
 
 li {
 	list-style: none;
@@ -31,4 +43,4 @@ li {
 #elevator {
 	font-style: italic;
 	font-size: 40px;
-}
+	}
