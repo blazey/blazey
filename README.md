@@ -7,4 +7,6 @@ I offer team leadership, development and architecture expertise for boutique or 
 
 I am committed to delivering value through providing quality, maintainable software. I am passionate about test first, object orientated programming.
 
-[Linked In Profile](http://uk.linkedin.com/pub/edward-blackburn/32/7b9/4b3)
+[![Linked In](./img/linked_in.png)](http://uk.linkedin.com/pub/edward-blackburn/32/7b9/4b3)
+[![Twitter](./img/twitter.png)](http://twitter.com/ejblackburn)
+[![email](./img/email.png)](mailto:ed@ejb.name)
