@@ -1,4 +1,4 @@
-Edward Blackburn @ Blazey Software Ltd
+Edward Blackburn @ [Blazey Software Ltd](http://blog.blazey.software/p/blazey-consulting.html)
 =
 
 Hello, my name is Ed. I am an experienced C# software developer on the .NET platform based in London.
