@@ -1,0 +1,56 @@
+h1 {
+    color: #FF4040;
+    font-family: helvetica;
+    font-weight: 900;
+    font-size: 1.9em;
+    letter-spacing: 0.8px;
+    line-height: 1.4;
+    font-size: 45px;
+}
+
+body {
+    background-color: white;
+    font-family: helvetica;
+    color: black;
+    padding: 30px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a img {
+    border: none;
+}
+
+a.footer_links:hover {
+    background-color: white;
+}
+
+a:link,
+a:visited {
+    background-color: white;
+    margin: 5px;
+    color: #FF4040;
+}
+
+a:hover,
+a:active {
+    background-color: #FF4040;
+    color: white;
+}
+
+li {
+    list-style: none;
+    float: right;
+    padding: 10px;
+}
+
+#elevator {
+    font-style: italic;
+    font-size: 40px;
+}
